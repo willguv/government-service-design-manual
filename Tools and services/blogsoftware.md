@@ -1,7 +1,7 @@
 #Blog software
 This guidance looks at blogs and how they can be used to communicate with tailored audiences and receive useful feedback from them.
 
-##Guidance/Tool
+##What are blogs?
 According to [wikipedia](http://en.wikipedia.org/wiki/Blog), blogs are discussion or information websites consisting of text entries (called "posts") typically displayed latest first.
 
 Blogs first become popular in the late 1990s and enabled anyone to publish a website - no technical knowledge necessary. There are now over 150 million public blogs around the world.
@@ -20,7 +20,7 @@ It's very easy to start a blog outside of our platform. We don't reccommend you 
 
 Just get in touch. We can deliver an easy to use blog that's secure, leaving you to focus on creating compelling content for your users.
 
-##What makes a great blog post
+##Writing a great blog post
 We asked some great Government bloggers for their secret recipe and here's what they said:
 
 * Show humility
