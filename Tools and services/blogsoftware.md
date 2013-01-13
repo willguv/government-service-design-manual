@@ -6,6 +6,15 @@ According to [wikipedia](http://en.wikipedia.org/wiki/Blog), blogs are discussio
 
 Blogs first become popular in the late 1990s and enabled anyone to publish a website - no technical knowledge necessary. There are now over 150 million public blogs around the world.
 
+##Why start a blog?
+Blogs can:
+
+* Create a more personal communication with your users
+* Allow you to target individual audidences (eg doctors, primary school teachers)
+* Help with policy making (if you consult with your readers, allow them to comment on your posts and engage in an open constructive manner)
+* Help with recruitment (potential applicants can better idea of the culture of your organisation)
+* Show how you're evolving over time (how a policy or service has changed, for example)
+
 ##How to start a blog
 First, get in touch with us. We're in the middle of procuring a blog platform that any Government department will be able to use. It will be based an industry standard platform such as Wordpress, Blogger or Tumblr and publishing will be extremely straightfoward.
 
