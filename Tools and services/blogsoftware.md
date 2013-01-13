@@ -38,6 +38,10 @@ Also consider the sector you're publishing in. Check out who else is blogging, w
 ##Allowing comments or not
 As a Government blog, it's good form to allow comments wherever possible. Comments provide useful feedback, could provide ideas for future blog posts and inform your team's thinking.
 
+It's possible you'll receive no comments. If this happens, read other blogs in your sector and see if what you're posting is likely to appeal to others. Don't fret too much though. There's so many blogs out there that many quality sites don't ever get comments.
+
+As your site is part of the UK Government network, you may receive complaints from the public about your service or others. It's always best to respond in a constructive and positive manner, and not post anything to inflame matters. If in doubt, contact your web team or us.
+
 Beware of [trolls](http://en.wikipedia.org/wiki/Troll_(Internet)) looking to disrupt normal discussions. Here's a [few tips on dealing with them](http://www.guardian.co.uk/media/2012/jun/12/how-to-deal-with-trolls) courtesy of the Guardian.
 
 
