@@ -1,8 +1,10 @@
 #Blog software
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance looks at blogs and how they can be used to communicate with tailored audiences and receive useful feedback from them.
 
 ##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+According to wikipedia, blogs are discussion or information websites consisting of text entries (or posts) typically displayed latest first.
+
+
 
 ##Code/Templates
 If you're giving people code r copy to cuta and paste then here is where it will go.
