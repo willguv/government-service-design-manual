@@ -21,14 +21,14 @@ It's very easy to start a blog outside of our platform. We don't reccommend you 
 Instead get in touch with us. We can deliver an easy to use blog that's secure, leaving you to focus on creating compelling content for your users.
 
 ##Writing a great blog post
-We asked some great Government bloggers for their secret recipe and here's what they said:
+We asked great Government bloggers for their secret recipe and here's what they said:
 
-* Show humility
 * Only blog when you have something useful or original to say
 * Tell an interesting story readers can relate to
 * Keep your posts short and to the point
 * Don't let months go by without posting
 * Acknowledge others
+* Show humility
 * Avoid jargon
 
 There's more useful tips on the [Teaching English website](http://www.teachingenglish.org.uk/help/how-to-write-a-good-blog).
