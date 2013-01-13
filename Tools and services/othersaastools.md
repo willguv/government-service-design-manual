@@ -1,14 +1,9 @@
 #Other software as a service tools
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance covers the many hundreds of sites offering off the shelf solutions for newsletters, forms, events and more.
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+##Guidance
+If you're looking for a newsletter sending service, a way of creating a standalone form or any other web based service, it's very tempting to do a Google search and opt for the best off the sheld solution you find.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+We don't currently recommend that you do this as it may lead to technical or security issues in the future. It would be catastrophic, for example, if users' names and addresses collected by a form ended up being posted on the internet.
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
-
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+If you need a web solution, always contact us first. It may be that an off the shelf solution will work for you, but we want to make sure that you get the best advice possible.
