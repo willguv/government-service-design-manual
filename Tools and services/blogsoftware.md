@@ -15,7 +15,7 @@ To begin with, blogs launched via our platform will follow a common design. Late
 
 The blog platform will also be built to work with GOV.UK, providing content feeds that can be incorporated within selected GOV.UK pages - more detail to follow when we have it.
 
-##How not to start a blog
+##How NOT to start a blog
 It's very easy to start a blog outside of our platform. We don't reccommend you do this as you may run into technical or other issues later on. If you're collecting user data, for example, you need to be aware of how it's stored and how secure your service is. The last thing you need is for names and addresses of contributors or users commenting on your blog to be leaked on to the internet.
 
 Instead get in touch with us. We can deliver an easy to use blog that's secure, leaving you to focus on creating compelling content for your users.
